@@ -1,5 +1,5 @@
 package com.company;
 
 public class AddFile {
-    private final int number = 25;
+    private final int number = 125;
 }
